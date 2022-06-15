@@ -1,0 +1,49 @@
+---
+title: "Publications"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**Jiwa, M.**, Cooper, P. S., Chong, T. T. J., & Bode, S. (2021). Choosing increases the value of non-
+instrumental information. *Scientific reports*, 11(1), 1-11. https://doi.org/10.1038/s41598-021-88031-y
+
+Feuerriegel, D., **Jiwa, M.**, Turner, W. F., Andrejević, M., Hester, R., & Bode, S. (2021). Tracking dynamic adjustments to decision making and performance monitoring processes in conflict tasks.
+*NeuroImage*, 238, 118265. https://doi.org/10.1016/j.neuroimage.2021.118265
+
+**Jiwa, M. W.**, & Jiwa, M. (2020). Why the effectiveness of a face mask is not limited to its infection
+control. *The Journal of Health Design*, 5(3). https://doi.org/10.21853/JHD.2020.117
+
+
+# In preparation
+
+**Jiwa, M.,** Cooper, P. S., Chong, T. T. J., & Bode, S. (2022). Hedonism as a Motive for Information
+Search – Biased Information-Seeking Leads to Biased Beliefs. Decision Science Hub seminar series, The
+University of Melbourne, Australia.
+
+# Conference Presentations & Workshops
+
+<!-- **Jiwa, M.,** Cooper, P. S., Chong, T. T. J., & Bode, S. (2022). Hedonism in Information Search – Biased -->
+<!-- Information-Seeking Leads to Biased Beliefs. Australasian Cognitive Neuroscience Society Conference, -->
+<!-- The University of Queensland, Australia. -->
+
+<!-- **Jiwa, M.,** Cooper, P. S., Chong, T. T. J., & Bode, S. (2022). Hedonism in Information Search – Biased -->
+<!-- Information-Seeking Leads to Biased Beliefs. Society for Mathematical Psychology Virtual Conference, -->
+<!-- Toronto. -->
+
+**Jiwa, M.,** Cooper, P. S., Chong, T. T. J., & Bode, S. (2021). Choosing Increases the Value of Non-
+Instrumental Information. Australasian Cognitive Neuroscience Society Conference, The University of
+Melbourne, Australia.
+
+**Jiwa, M.,** Cooper, P. S., Chong, T. T. J., & Bode, S. (2021). Choosing Increases the Value of Non-
+Instrumental Information. EPS Decision Making in Voluntary Action Workshop, University College
+London, UK.
+
+**Jiwa, M.,** Cooper, P. S., Chong, T. T. J., & Bode, S. (2020). Choosing to Know: Agency Increases
+the Value of Non-Instrumental Information. MDHS Graduate Research Conference, The University of
+Melbourne, Australia.
+
+
+

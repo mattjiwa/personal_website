@@ -1,0 +1,31 @@
+---
+title: "Matthew Jiwa"
+image: "assets/profile.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/matthew-jiwa-b1672610b/"
+  - label: Twitter
+    url: "https://twitter.com/mattjiwa"
+  - label: Email
+    url: "mailto:mjiwa@student.unimelb.edu.au"
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+I'm a PhD candidate at the University of Melbourne studying the contextual factors and characteristics of information that drive us to seek it.
+
+There are a lot of questions surrounding our consumption of information that we don't fully understand:
+
+*Why do we tend to prefer information that supports our existing beliefs?*
+
+*How can we make accurate information more desirable?*
+
+*How can we limit the spread of misinformation and disinformation online?*
+
+These are a few examples of the questions that guide my research interests. I combine experimental design from cognitive psychology with computational modelling to address these questions. 
